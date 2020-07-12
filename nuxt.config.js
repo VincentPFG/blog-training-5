@@ -22,7 +22,7 @@ export default {
 
   css: [],
 
-  plugins: [],
+  plugins: ['@/plugins/gotrue'],
 
   components: true,
 
